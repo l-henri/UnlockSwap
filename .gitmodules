@@ -1,6 +1,9 @@
-[submodule "v2-periphery"]
-	path = v2-periphery
-	url = https://github.com/l-henri/v2-periphery
-[submodule "v2-core"]
-	path = v2-core
-	url = https://github.com/l-henri/v2-core
+[submodule "unlock"]
+	path = unlock
+	url = https://github.com/unlock-protocol/unlock
+[submodule "v2-peryphery-udt"]
+	path = v2-peryphery-udt
+	url = https://github.com/l-henri/v2-peryphery-udt
+[submodule "v2-core-udt"]
+	path = v2-core-udt
+	url = https://github.com/l-henri/v2-core-udt
