@@ -1,7 +1,6 @@
 pragma solidity >=0.6.2;
 
 import '../interfaces/IUnlockswapV2Pair.sol';
-
 import "./SafeMath.sol";
 
 library UnlockswapV2Library {
